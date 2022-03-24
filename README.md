@@ -11,3 +11,5 @@
 
 ### Анализ меток с помощью ChromHMM:
 Ссылка на Google Colab: https://colab.research.google.com/drive/16L_5GFkjNJGnarDiQLc0ayrdVGbRCsTp?usp=sharing
+
+Для анализа был создан файл cellmarkfiletable.txt
