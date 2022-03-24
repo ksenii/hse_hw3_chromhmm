@@ -6,6 +6,8 @@
 Были выбраны данные HepG2.
 ![alt text](HepG2.png)
 
-### Файлы 
+### Скачивание файлов 
 ![alt text](files.png)
 
+### Анализ меток с помощью ChromHMM:
+Ссылка на Google Colab: https://colab.research.google.com/drive/16L_5GFkjNJGnarDiQLc0ayrdVGbRCsTp?usp=sharing
