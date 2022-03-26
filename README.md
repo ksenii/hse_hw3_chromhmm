@@ -39,3 +39,10 @@
 ![alt text](Genome/Genome2.png)
 
 ### Анализ данных
+Анализируем на основе следующих данных:
+![alt text](PictureChromHMM/FoldEnrichment.png)
+
+1) Выявлены цвета статусов
+![alt text](resuts/color.png)
+
+2) 
