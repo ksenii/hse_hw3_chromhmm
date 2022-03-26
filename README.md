@@ -16,7 +16,7 @@
 Для анализа был создан файл cellmarkfiletable.txt
 ![alt text](cellmarkfiletable.png)
 
-Результатами кода в Google Colab стали:
+#### Результатами кода в Google Colab стали:
 1) Файлы из папки BinarizedData
 2) Файлы из ( в папке html ) FilesDataCromHMM
 3) Изображения из папки PictureChromHMM
@@ -27,3 +27,5 @@
 ![alt text](PictureChromHMM/RefSeqTES.png)
 ![alt text](PictureChromHMM/RefSeqTSS.png)
 ![alt text](PictureChromHMM/TransitionParameters.png)
+
+
