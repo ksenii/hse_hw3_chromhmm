@@ -70,3 +70,12 @@
 3) Итог
 
 ![alt text](results/ColorName.png)
+
+
+## Часть 2
+Были сделаны следующие настройки
+
+![alt text](Genome/GenomeSettings2.png)
+
+Итог:
+![alt text](Genome/Genome3.png)
