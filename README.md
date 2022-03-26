@@ -29,3 +29,13 @@
 ![alt text](PictureChromHMM/TransitionParameters.png)
 
 
+### UCSC GenomeBrowser 
+
+Были сделаны следующие настройки:
+![alt text](Genome/GenomeSettings.png)
+
+Были получены следующие результаты:
+![alt text](Genome/Genome1.png)
+![alt text](Genome/Genome2.png)
+
+### Анализ данных
