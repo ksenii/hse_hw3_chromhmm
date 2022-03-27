@@ -23,7 +23,7 @@
 
 
 1) Файлы из папки BinarizedData
-2) html webpage_10.html
+2) html webpage_10.html и Hepg2_10_expanded.bed
 3) Изображения из папки PictureChromHMM
 
 
