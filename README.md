@@ -23,7 +23,7 @@
 
 
 1) Файлы из папки BinarizedData
-2) Файлы из ( в папке html ) FilesDataCromHMM
+2) html webpage_10.html
 3) Изображения из папки PictureChromHMM
 
 
